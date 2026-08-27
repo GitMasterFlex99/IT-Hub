@@ -1,6 +1,6 @@
 # IT-Hub
 
-A portfolio-grade IT service desk and asset management application.
+IT service desk and asset management application.
 
 IT-Hub models a small internal support operation: technicians can manage incidents, track SLA health, search tickets, and keep an inventory of company devices.
 
@@ -37,6 +37,4 @@ IT-Hub models a small internal support operation: technicians can manage inciden
 
 The application intentionally separates presentation, business logic, and persistence so that the project demonstrates maintainable application structure rather than a single-page mockup.
 
-## Development
 
-The repository is being developed incrementally. Each major feature is kept small enough to review independently and documented as it is introduced.
